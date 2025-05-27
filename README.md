@@ -1,3 +1,3 @@
 # project-hw
 
-I like GoIT!
+I very like GoIT!
